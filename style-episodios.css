@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0; 
+    list-style-type: none;
+    box-sizing:border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+body{
+    background: linear-gradient(to top right, black, red);
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+}
+
+body h1 {
+    color: white;
+    }
+
+body h1:hover{
+        color:gold;
+    }
+
+body h1 {
+    transition: color 0.8s linear 0.2s;
+    }
+
+thead tr td {
+    font-weight: bold;
+    font-size: 15px;  
+    }
+
+.table {
+    background-color:transparent; 
+    width:auto;
+    height:420px;
+    }
+
+.table td {
+    color: white ;
+    border: 2px solid;
+    font-size: 15px;
+    font-size: 12px;
+}
+
+
+.table th {
+    color: white ;
+    border: 2px solid;
+    font-size: 12px;
+}
+
+.table tr td img {
+    transform: rotate(20deg);
+}

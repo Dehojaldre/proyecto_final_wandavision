@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0; 
+    list-style-type: none;
+    box-sizing:border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+
+.c-wrapper {
+    width: 24%;
+    margin: 2%;
+    color:white;
+    
+}
+
+#carouselExampleDark {
+    width: 100%;
+    margin: auto;
+    color: white;
+      
+}
+
+ .carousel-dark .carousel-caption {
+     color: white;
+ }
+
+ 
+.carousel-dark .carousel-indicators [data-bs-target] {
+	background-color: whitesmoke;
+}
+ 
+.carousel-indicators {
+    margin-bottom: -200px;
+}
+
+
+
