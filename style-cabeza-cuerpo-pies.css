@@ -63,31 +63,11 @@ body{
     background: linear-gradient(to top right, black, red);
     background-size: cover;
     min-height: 100vh;
-    /*position: relative;*/
 }
 
-/*
-#grid-footer {
-    display: grid;
-    grid-template-rows: 137px;
-    grid-template-columns: 75% 60%;
-    background: linear-gradient(to bottom right 90deg, black, red);
-    width:100%;
-    position:absolute;
-    bottom: 20px; 
-    height: 100px;  
-  
-    }
-
-#grid-footer p{
-    font-family: 'Roboto', sans-serif;
-    color:white;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 16px;  
-    margin-top: 47px;
-    margin-left: 29px ;   
-}*/
+header {
+    margin-bottom: 80px;
+}
 
 .home-img {
     width: 400px;
@@ -103,8 +83,6 @@ footer {
     background-color:#1F252A;
 }
 
-
- 
 @media (min-width: 768px) {
     footer {
         height: 50px; 
