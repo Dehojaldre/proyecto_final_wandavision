@@ -13,11 +13,14 @@ body{
     position: relative;
 }
 
+<<<<<<< HEAD
 body h1 {
     color: white;
 }
 
 
+=======
+>>>>>>> 9528ce92db409df34cedc1617256edc4a542a737
 thead tr td {
     font-weight: bold;
     font-size: 15px;  
