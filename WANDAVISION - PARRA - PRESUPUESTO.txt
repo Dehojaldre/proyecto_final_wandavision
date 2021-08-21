@@ -1,0 +1,35 @@
+
+
+Objetivo: crear una web de la serie con informacion basica y sus conexiones con el MCU.
+
+Reunion con el cliente: hablamos de su idea principal,del tipo de informacion y diseño que desea incluir.Él nos brindará toda la informacion, nosotros solo compilaremos.
+
+ 
+Plazo: 15 dias en total (7h por dia). 
+
+Fases:
+Diseño: dia 1
+Entrega del Prototipo:dia 2 al 5
+Construccion y validacion:dia 6 al 12
+Prueba y cambios:dia 13 al 14
+Entrega y puesta en produccion: dia 15
+
+Plataformas y herramientas de diseño:
+
+Presupuesto: precio por hora de trabajo ARS 500. 
+Se estima de trabajo 105 horas. El total seria de ARS 52.500
+Cobro de en concepto de seña, previo armado del protoritipo y el saldo en la entrega.
+El costo de las horas extra y mantenimiento será de ARS 500. 
+
+
+Alojamiento y servicios incluidos:
+Hosting en Bluehost, paquete basico: usd 11 anuales 
+Se cobra a parte y en dolares o pesos al cambio del dia.
+
+Validez del presupuesto: 7 dias luego de la entrega. Los pagos se realizar via transferencia bancaria.
+
+
+
+
+
+

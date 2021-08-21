@@ -1,0 +1,16 @@
+MAPA DEL SITIO:
+WANDAVISION(INDEX)
+		/PERSONAJES
+		/EPISODIOS
+		/IMPERDIBLES
+		/CONTACTAME
+
+
+PROYECTO FINAL WANDAVISION
+Descripcion:
+
+Palabras Claves:
+Agregué los keywords en cada una de las webs: WANDA, VISION, WANDAVISION,MCU.
+
+Encabezado:con el nombre de la web.
+
